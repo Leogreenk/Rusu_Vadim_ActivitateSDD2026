@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Rusu_Vadim_ActivitateSD2026/Rusu_Vadim_ActivitateSD2026.vcxproj" />
+</Solution>
